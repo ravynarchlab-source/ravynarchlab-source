@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="440" viewBox="0 0 1600 440">
+  <defs>
+    <clipPath id="card"><rect width="1600" height="440" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1600" height="440" fill="#0C0B10"/>
+
+    <!-- eclipse mark: violet disc covered by an offset dark disc, leaving a thin rim -->
+    <circle cx="1318" cy="220" r="132" fill="#8F5BFF"/>
+    <circle cx="1309" cy="214" r="130" fill="#0C0B10"/>
+    <circle cx="1431" cy="281" r="5" fill="#E9E1FF"/>
+
+    <text x="104" y="256" font-family="Archivo Black" font-size="156" letter-spacing="14" fill="#F2F0F7">RAVYN</text>
+    <text x="112" y="334" font-family="Archivo SemiBold" font-weight="500" font-size="48" fill="#ABA6BA">Games, mods, and the tools behind them.</text>
+  </g>
+</svg>
