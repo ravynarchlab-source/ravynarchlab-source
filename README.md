@@ -1,28 +1,21 @@
-<img src="assets/banner.png" alt="RAVYN" width="100%">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/banner-mobile.svg">
+  <img src="assets/banner.svg" alt="RAVYN. Game developer: Unity, co-op horror." width="100%">
+</picture>
 
-I make games and mods, and I build most of my own tooling to get there. Unity and Roblox take up most of my week. The rest goes into pulling other games apart to see how they work.
+I make co-op horror games in Unity and run the RAVYN: Riftfall community.
 
-### Working on
+### Currently building: Dusk Crew
 
-**PROJECT_X** (codename)<br>
-First-person co-op horror in Unity, presented like bodycam footage. Not public yet.
+Build light by day, rescue people in the dark by night. First-person co-op for one or two players.
 
-**RAVYN: ECHO**<br>
-Co-op dungeon game on Roblox for 1 to 4 players. Lineages, skill fusion, and a "server admin" voice that talks you through every run.
+<p>
+  <a href="https://github.com/ravynarchlab-source/dusk-crew-showcase"><img src="assets/dusk-crew.gif" alt="Dusk Crew footage: the street goes from golden hour to night under a black moon, an axe prints into the player's hands as a cyan hologram, and a Returned erupts with blades and lunges." width="49%"></a>
+  <a href="https://github.com/ravynarchlab-source/dusk-crew-showcase"><img src="assets/dusk-crew-golden-hour.jpg" alt="Dusk Crew screenshot: a quiet street at golden hour, with a house, a tree and a creek running through fog." width="49%"></a>
+</p>
 
-### Running
+**Free demo on itch.io — 21 Dec.** Screenshots, features and devlog are on the [Dusk Crew press page](https://github.com/ravynarchlab-source/dusk-crew-showcase).
 
-**RAVYN | ATM10 Hardcore**<br>
-Public Minecraft server. All the Mods 10 on NeoForge 1.21.1, hardcore rules. Join at [playravyn.com](https://playravyn.com).
+**Stack:** Unity (URP), C#, Photon PUN 2, Blender, Python, Luau.
 
-**60 Seconds! Reatomized in Gulf Arabic**<br>
-Fan translation with full right-to-left support, about 3,800 strings. Finished, waiting on the developer's go-ahead.
-
-### Tools
-
-Unity and C#, Roblox and Luau, Blender, Python, Node.js. Git for all of it.
-
-### Find me
-
-Discord: [RAVYN: Riftfall](https://discord.gg/YMws83FPS)<br>
-Minecraft: [playravyn.com](https://playravyn.com)
+**Contact:** [Discord — RAVYN: Riftfall](https://discord.gg/YMws83FPS)
