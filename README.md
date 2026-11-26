@@ -3,7 +3,7 @@
   <img src="assets/banner.svg" alt="RAYVN. Game developer: Unity, co-op horror." width="100%">
 </picture>
 
-I make co-op horror games in Unity and run the RAVYN: Riftfall community.
+I make co-op horror games in Unity and run the RAYVN: Riftfall community.
 
 ### Currently building: Dusk Crew
 
@@ -17,4 +17,4 @@ Build light by day, rescue people in the dark by night. First-person co-op for o
 
 **Stack:** Unity (URP), C#, Photon PUN 2, Blender, Python, Luau.
 
-**Contact:** [Discord — RAVYN: Riftfall](https://discord.gg/YMws83FPS) · [ravynarchlab-source.github.io](https://ravynarchlab-source.github.io)
+**Contact:** [Discord — RAYVN: Riftfall](https://discord.gg/YMws83FPS) · [ravynarchlab-source.github.io](https://ravynarchlab-source.github.io)
