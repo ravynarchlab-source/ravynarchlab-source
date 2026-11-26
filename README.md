@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/banner-mobile.svg">
-  <img src="assets/banner.svg" alt="RAVYN. Game developer: Unity, co-op horror." width="100%">
+  <img src="assets/banner.svg" alt="RAYVN. Game developer: Unity, co-op horror." width="100%">
 </picture>
 
 I make co-op horror games in Unity and run the RAVYN: Riftfall community.
